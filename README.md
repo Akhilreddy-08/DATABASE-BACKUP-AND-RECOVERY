@@ -24,3 +24,5 @@ Restoration: I demonstrated the Recovery Process by dropping the database and su
 
 #OUTPUT
 
+<img width="1668" height="103" alt="Image" src="https://github.com/user-attachments/assets/176eea7e-d43b-4701-9c0e-6856bc8891e4" />
+
